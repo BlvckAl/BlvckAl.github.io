@@ -5,14 +5,14 @@ description: "Some short description of your blog can go here." # This will show
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "synflix.m@gmail.com"
-twitter_username: "@BlvckEl"
-github_username: "@BlvckAl"
-linkedin_username: "@BlvckEl"
-facebook_username: "@BlvckEl"
+twitter_username: "BlvckEl"
+github_username: "BlvckAl"
+linkedin_username: "BlvckEl"
+facebook_username: "BlvckEl"
 #flickr_username: username
 #instagram_username: username
-pinterest_username: "@BlvckEl"
-youtube_username: "@BlvckEl"
+pinterest_username: "BlvckEl"
+youtube_username: "BlvckEl"
 #googleplus_username: +username
 
 #########################################################################################
