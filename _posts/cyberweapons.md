@@ -7,3 +7,10 @@ The following are examples of cyber weapons such as Stuxnet and its kin, Flame, 
 This is where am going to stop today stay tone for my next epiesode CyberTech.
 
 ### Goodbye!
+
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
+
